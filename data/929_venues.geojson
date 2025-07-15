@@ -6,7 +6,7 @@
       "properties": {
         "id": "25LON",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at The O2",
         "date": "2/14/2025 (Cancelled)",
         "venue": "The O2",
@@ -29,7 +29,7 @@
       "properties": {
         "id": "25LV",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Dolby Live at Park MGM",
         "date": "2/28 & 3/1/2025",
         "venue": "Dolby Live at Park MGM",
@@ -52,7 +52,7 @@
       "properties": {
         "id": "25SEA",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Angel of the Winds Arena",
         "date": "3/5/2025",
         "venue": "Angel of the Winds Arena",
@@ -75,7 +75,7 @@
       "properties": {
         "id": "25NYC",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "周深Zhou Shen 9.29Hz World Concert Tour - New York",
         "date": "3/9/2025",
         "venue": "Barclays Center",
@@ -98,7 +98,7 @@
       "properties": {
         "id": "25TOR",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Coca-Cola Coliseum",
         "date": "3/14-15/2025",
         "venue": "Coca-Cola Coliseum",
@@ -121,7 +121,7 @@
       "properties": {
         "id": "25MEL",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Rod Laver Arena",
         "date": "3/29/2025",
         "venue": "Rod Laver Arena",
@@ -144,7 +144,7 @@
       "properties": {
         "id": "25SYD",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at International Convention Centre Sydney",
         "date": "4/6/2025",
         "venue": "International Convention Centre Sydney",
@@ -167,7 +167,7 @@
       "properties": {
         "id": "25KL",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Axiata Arena",
         "date": "4/12-13/2025",
         "venue": "Axiata Arena",
@@ -190,7 +190,7 @@
       "properties": {
         "id": "24SH",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Mercedes-Benz Arena",
         "date": "5/18-19/2024",
         "venue": "Mercedes-Benz Arena",
@@ -213,7 +213,7 @@
       "properties": {
         "id": "24SHZH",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Shenzhen Universiade Sports Center Stadium",
         "date": "6/1/2024",
         "venue": "Shenzhen Universiade Sports Center Stadium",
@@ -236,7 +236,7 @@
       "properties": {
         "id": "24CD",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Dong'an Lake Sports Park Stadium",
         "date": "6/15/2024",
         "venue": "Dong'an Lake Sports Park Stadium",
@@ -259,7 +259,7 @@
       "properties": {
         "id": "24GY",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Guiyang Olympic Sports Center Stadium",
         "date": "7/13/2024",
         "venue": "Guiyang Olympic Sports Center Stadium",
@@ -282,7 +282,7 @@
       "properties": {
         "id": "24WH",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Wuhan Sports Center Stadium",
         "date": "7/27/2024",
         "venue": "Wuhan Sports Center Stadium",
@@ -305,7 +305,7 @@
       "properties": {
         "id": "24NJ",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Nanjing Olympic Sports Center Stadium",
         "date": "8/10-11/2024",
         "venue": "Nanjing Olympic Sports Center Stadium",
@@ -328,7 +328,7 @@
       "properties": {
         "id": "24HZ",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Hangzhou Olympic Sports Center Stadium",
         "date": "8/23-24/2024",
         "venue": "Hangzhou Olympic Sports Center Stadium",
@@ -351,7 +351,7 @@
       "properties": {
         "id": "24SY",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Shenyang Olympic Sports Centre Stadium",
         "date": "9/7/2024",
         "venue": "Shenyang Olympic Sports Centre Stadium",
@@ -374,7 +374,7 @@
       "properties": {
         "id": "24BJ",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Beijing National Stadium",
         "date": "9/21-22/2024",
         "venue": "Beijing National Stadium",
@@ -397,7 +397,7 @@
       "properties": {
         "id": "24CQ",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Chongqing Olympic Sports Center Stadium",
         "date": "10/6-7/2024",
         "venue": "Chongqing Olympic Sports Center Stadium",
@@ -420,7 +420,7 @@
       "properties": {
         "id": "24SZ",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Suzhou Sports Center Stadium",
         "date": "11/9-10/2024",
         "venue": "Suzhou Sports Center Stadium",
@@ -443,7 +443,7 @@
       "properties": {
         "id": "24NC",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Nanchang International Sports Center Stadium",
         "date": "11/23/2024",
         "venue": "Nanchang International Sports Center Stadium",
@@ -466,7 +466,7 @@
       "properties": {
         "id": "24NN",
         "type": "singer_activity",
-        "tour": "9.29Hz World Tour",
+        "tour": "9.29Hz",
         "title": "Concert at Guangxi Sports Center Main Stadium",
         "date": "12/6-7/2024",
         "venue": "Guangxi Sports Center Main Stadium",
